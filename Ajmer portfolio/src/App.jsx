@@ -432,7 +432,7 @@ function App() {
     // Use formData state for sending data
     const data = { ...formData };
     try {
-      const response = await axios.post("http://localhost:5000/api/contact", data);
+      const response = await axios.post("https://ajmer-lodhi-portfolio.onrender.com/api/contact", data);
       alert(response.data.message);
     } catch (error) {
       console.error(error);
