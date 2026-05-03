@@ -25,7 +25,7 @@ import mastercpp from './certificates/mastercpp.jpg';
 import nptel from './certificates/nptel.jpg';
 import pythonessential1 from './certificates/pythonessential1.jpg';
 import pythonessential2 from './certificates/pythonessential2.jpg';
-import Resume from './certificates/Ajmer_Lodhi_Resume.pdf';
+import Resume from './certificates/Ajmersingh_Resume.pdf';
 
 // Inline CSS with enhanced dark theme
 const styles = `
